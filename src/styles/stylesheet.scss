@@ -55,7 +55,7 @@ $panel-opacity: 0.876; // Don't change this value since it's dynamically changed
     }
 
     @if ($theme== 'dark') {
-        @return rgba(25, 25, 25, 1);
+        @return rgba(40, 40, 40, 1);
     }
 
     @if ($theme== 'primary') {
